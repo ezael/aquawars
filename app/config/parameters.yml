@@ -10,3 +10,9 @@ parameters:
     mailer_user: null
     mailer_password: null
     secret: b2a1ef064ef23083f6115ea0eba7efbf4dfe8d47
+
+aquawars:
+    nom_du_jeu: aquawars
+    version: 0.0.1
+    author: thierry hay (ezael)
+    
