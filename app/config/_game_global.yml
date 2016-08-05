@@ -1,0 +1,7 @@
+parameters:
+    game_name: Test Test
+
+twig:
+    globals:
+        game_name: "%game_name%"
+    
